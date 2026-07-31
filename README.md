@@ -1,3 +1,3 @@
 ## Challs
 
-This is a selection of cryptochalls created by me
+This is a list of crypto challs created by me
