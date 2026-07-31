@@ -1,7 +1,7 @@
 import random
 from Crypto.Util.number import getPrime
 
-FLAG=b"btc{test}"
+FLAG=b"flag{test}"
 p=getPrime(512)
 q=getPrime(512)
 N=p*q
